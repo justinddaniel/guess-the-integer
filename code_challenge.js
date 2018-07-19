@@ -1,8 +1,3 @@
-/* This is a guessing game that can be played in the console of Google Chrome when opening developer tools 
-(ctrl + shift + i on PC) as well as on other browsers. The goal is to try to guess the number chosen randomly
-by the program. The number can be 1 to 100 inclusive. */
-
-
 //Global Variables
 
 let guess;
